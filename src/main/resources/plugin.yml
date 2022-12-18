@@ -1,0 +1,4 @@
+name: Da
+version: '${project.version}'
+main: da.da.Da
+api-version: 1.19
